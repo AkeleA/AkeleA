@@ -45,3 +45,7 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
  
 [![Akele's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkeleA)](https://github.com/AkeleA/github-readme-stats)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkeleA&theme=tokyonight)

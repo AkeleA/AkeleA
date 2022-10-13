@@ -26,7 +26,7 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I attempt LeetCode challenges or read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akeleojo-achor-1a8557172/) or achorisaac@gmaill.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akeleojo-achor-1a8557172/) or achorisaac@gmail.com
 
 ---
 

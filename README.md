@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **achorisaac@gmail.com**
 
-- ⚡ Fun fact **I play 4 musical instruments**
+- ⚡ Fun fact: **I play 4 musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

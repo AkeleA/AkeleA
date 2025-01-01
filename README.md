@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Akeleojo</h1>
-<h3 align="center">A unique frontend developer from Nigeria. I work in corporate IT. When not working I'm reading or making music.</h3>
+<h3 align="center"> Software Developer and part time Instrumentalist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akelea&label=Profile%20views&color=0e75b6&style=flat" alt="akelea" /> </p>
 
 
 
-- 🌱 I’m currently learning **cloud engineerng and cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://craxboardist.netlify.app/](https://craxboardist.netlify.app/)
+- 📝 Sometimes I write articles on [frontend development](frontend development)
 
-- 📝 I regularly write articles on [frontend development](frontend development)
+- 💬 Ask me about **React, TailwindCSS, and NextJs**
 
-- 💬 Ask me about **React, TailwindCSS, and Vue**
-
-- 📫 How to reach me **achorisaac@gmail.com**
+- 📫 How to reach me **akeleojoachor@gmail.com**
 
 - ⚡ Fun fact: **I play 4 musical instruments**
 

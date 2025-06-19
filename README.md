@@ -10,7 +10,7 @@ I'm a passionate **Software Developer** with a love for creating beautiful, func
 
 -   🔭 Currently working on exciting frontend projects
 -   🌱 Always learning and exploring new technologies
--   📝 Sometimes I write articles on [frontend development](https://your-blog-link.com/)
+-   📝 Sometimes I write articles on [frontend development](https://medium.com/@aakele)
 -   💬 Ask me about **React, Next.js, TypeScript, and TailwindCSS**
 -   📫 Reach me at **akeleojoachor@gmail.com**
 -   ⚡ Fun fact: **I play 4 musical instruments** 🎸🎹🥁🎺
@@ -44,16 +44,14 @@ I'm a passionate **Software Developer** with a love for creating beautiful, func
 🎵 When I'm Not Coding...
 -------------------------
 
-I'm probably making music! Here are the instruments I play:
+I'm probably making music with these:
 
 -   🎸 Guitar
 -   🎹 Piano/Keyboard
 -   🥁 Drums
--   🎺 [Your 4th instrument]
+-   🎺 Saxophone
 
 * * * * *
-
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <div align="center">
 
 **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 

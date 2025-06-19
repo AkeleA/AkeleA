@@ -39,7 +39,7 @@ I'm a passionate **Software Developer** with a love for creating beautiful, func
 🔥 Streak Stats
 ---------------
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akelea&theme=tokyonight" alt="akelea" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akelea&theme=tokyonight" alt="akelea" /> </div>
 
 🎵 When I'm Not Coding...
 -------------------------

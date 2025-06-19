@@ -1,28 +1,60 @@
-<h1 align="center">Hi 👋, I'm Akeleojo</h1>
-<h3 align="center"> Software Developer and part time Instrumentalist </h3>
+Hi there! 👋 I'm Akeleojo
+=========================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akelea&label=Profile%20views&color=0e75b6&style=flat" alt="akelea" /> </p>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Developer;Frontend+Specialist;Music+Enthusiast;Always+Learning" alt="Typing SVG" /> </div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=akelea&label=Profile%20views&color=0e75b6&style=flat" alt="akelea" /> <img src="https://img.shields.io/github/followers/akelea?label=Followers&style=social" alt="GitHub Badge"> </p>
 
+🚀 About Me
+-----------
 
+I'm a passionate **Software Developer** with a love for creating beautiful, functional web applications. When I'm not coding, you'll find me making music with one of my 4 instruments! 🎵
 
+-   🔭 Currently working on exciting frontend projects
+-   🌱 Always learning and exploring new technologies
+-   📝 Sometimes I write articles on [frontend development](https://your-blog-link.com/)
+-   💬 Ask me about **React, Next.js, TypeScript, and TailwindCSS**
+-   📫 Reach me at **akeleojoachor@gmail.com**
+-   ⚡ Fun fact: **I play 4 musical instruments** 🎸🎹🥁🎺
 
-- 📝 Sometimes I write articles on [frontend development](frontend development)
+🛠️ Tech Stack
+--------------
 
-- 💬 Ask me about **React, TailwindCSS, and NextJs**
+### Frontend
 
-- 📫 How to reach me **akeleojoachor@gmail.com**
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass" alt="Frontend Skills" /> </p>
 
-- ⚡ Fun fact: **I play 4 musical instruments**
+### Tools & Others
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akeleojo achor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akeleojo achor" height="30" width="40" /></a>
-<a href="https://instagram.com/e.ne.ke.le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e.ne.ke.le" height="30" width="40" /></a>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,python,redux" alt="Tools" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+🌐 Connect with me
+------------------
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akelea&show_icons=true&locale=en&layout=compact" alt="akelea" /></p>
+<p align="left"> <a href="https://linkedin.com/in/akeleojo-achor" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/e.ne.ke.le" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:akeleojoachor@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akelea&" alt="akelea" /></p>
+📊 GitHub Stats
+---------------
+
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akelea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akelea&layout=compact&langs_count=8&theme=tokyonight"/> </div>
+
+🔥 Streak Stats
+---------------
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akelea&theme=tokyonight" alt="akelea" /> </div>
+
+🎵 When I'm Not Coding...
+-------------------------
+
+I'm probably making music! Here are the instruments I play:
+
+-   🎸 Guitar
+-   🎹 Piano/Keyboard
+-   🥁 Drums
+-   🎺 [Your 4th instrument]
+
+* * * * *
+
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <div align="center">
+
+**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+
+</div>
